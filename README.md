@@ -1,4 +1,6 @@
 # dva-decorator
+[![npm](https://img.shields.io/npm/v/dva-decorator.svg?style=flat-square)](https://www.npmjs.com/package/dva-decorator)
+[![npm](https://img.shields.io/npm/l/dva-decorator.svg?style=flat-square)](https://www.npmjs.com/package/dva-decorator)
 
 > 一些搭配 dva 框架使用的适配器
 
