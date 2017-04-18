@@ -1,6 +1,6 @@
 {
   "name": "dva-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一些搭配 dva 框架使用的适配器",
   "main": "index.js",
   "scripts": {

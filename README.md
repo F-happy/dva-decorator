@@ -30,3 +30,7 @@ export default class Test extends Component {
     }
 }
 ```
+
+### 说明：
+由于适配器(decorator)属于ES7规范中的特性，所以如果你准备在你的项目中使用的话需要先让 babel.js 去支持这个特性。
+具体的话你可以通过引入[babel-plugin-transform-decorators-legacy](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy)来进行支持。好消息是现在这个[新特性](http://tc39.github.io/proposal-decorators/)已经从 stage-0 变成了 stage-2 的特性了。
