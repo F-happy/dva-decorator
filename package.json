@@ -1,6 +1,6 @@
 {
   "name": "dva-decorator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "一些搭配 dva 框架使用的适配器",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/F-happy/dva-decorator#readme",
   "dependencies": {
-    "dva": "^1.2.1"
+    "dva": "^1.2.1",
+    "rc-form": "^1.3.1"
   },
   "devDependencies": {
     "react": "^15.5.4",
